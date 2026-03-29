@@ -288,24 +288,13 @@ Trained Model (models/)
 
 ## 👤 Tác Giả
 
-Created by: Your Name
+Created by: Tr Bình Minh
 
 ---
 
 ## 📄 License
 
 This project is for educational and research purposes.
-
----
-
-## 💡 Gợi Ý Cải Thiện
-
-- [ ] Thêm cross-validation
-- [ ] Tuning hyperparameter thêm
-- [ ] Test tập độc lập (holdout)
-- [ ] Deploy mô hình dưới dạng API
-- [ ] Thêm continuous monitoring
-- [ ] Viết unit tests
 
 ---
 
